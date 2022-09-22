@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 55 72"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="trashCan.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="8.554028"
+     inkscape:cx="-7.8910193"
+     inkscape:cy="21.159622"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#898989;}.cls-2,.cls-4{fill:none;stroke-miterlimit:10;stroke-width:3px;}.cls-2{stroke:#898989;}.cls-3{fill:#666;}.cls-4{stroke:#666;stroke-linecap:round;}</style>
+  </defs>
+  <g
+     id="Слой_2"
+     data-name="Слой 2">
+    <g
+       id="Textures">
+      <g
+         id="TrashCanClosed">
+        <path
+           id="path6"
+           class="cls-1"
+           d="M 2.7890625 13.599609 A 4.08 4.08 0 0 0 2.7890625 13.919922 L 2.7890625 14 L 11.429688 68.410156 A 4.25 4.25 0 0 0 15.630859 72 L 39.369141 72 A 4.25 4.25 0 0 0 43.570312 68.410156 L 52.220703 14 L 52.220703 13.919922 A 4.08 4.08 0 0 0 52.25 13.599609 L 2.7890625 13.599609 z "
+           style="fill:#d1d1d1;fill-opacity:1" />
+        <path
+           id="path10"
+           class="cls-3"
+           d="M 2.7890625 13.533203 A 4.08 4.08 0 0 0 2.7890625 13.919922 L 2.7890625 14 L 52.259766 14 L 52.259766 13.919922 A 4.08 4.08 0 0 0 52.285156 13.533203 L 2.7890625 13.533203 z "
+           style="fill:#8f92b0;fill-opacity:1" />
+        <line
+           class="cls-4"
+           x1="11"
+           y1="20"
+           x2="18"
+           y2="64"
+           id="line14"
+           style="stroke:#8f92b0;stroke-opacity:1;stroke-width:1.5;stroke-dasharray:none" />
+        <line
+           class="cls-4"
+           x1="44"
+           y1="20"
+           x2="37"
+           y2="64"
+           id="line16"
+           style="stroke:#8f92b0;stroke-opacity:1;stroke-width:1.5;stroke-dasharray:none" />
+        <line
+           class="cls-4"
+           x1="27.5"
+           y1="19.5"
+           x2="27.5"
+           y2="63.5"
+           id="line18"
+           style="stroke:#8f92b0;stroke-opacity:1;stroke-width:1.5;stroke-dasharray:none" />
+      </g>
+    </g>
+  </g>
+</svg>

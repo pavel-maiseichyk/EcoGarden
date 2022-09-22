@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 55 72"
+   version="1.1"
+   id="svg23"
+   sodipodi:docname="trashCanRoof.svg"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview25"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="12.097222"
+     inkscape:cx="22.773824"
+     inkscape:cy="29.428244"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg23" />
+  <defs
+     id="defs4">
+    <style
+       id="style2">.cls-1{fill:#898989;}.cls-2,.cls-4{fill:none;stroke-miterlimit:10;stroke-width:3px;}.cls-2{stroke:#898989;}.cls-3{fill:#666;}.cls-4{stroke:#666;stroke-linecap:round;}</style>
+  </defs>
+  <g
+     id="Слой_2"
+     data-name="Слой 2">
+    <g
+       id="Textures">
+      <g
+         id="TrashCanClosed">
+        <rect
+           class="cls-2"
+           x="20.5"
+           y="1.5"
+           width="15"
+           height="8"
+           rx="2.16"
+           id="rect8"
+           style="stroke:#d1d1d1;stroke-opacity:1" />
+        <rect
+           class="cls-1"
+           y="7"
+           width="55"
+           height="6"
+           rx="0.83"
+           id="rect12"
+           style="fill:#d1d1d1;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>

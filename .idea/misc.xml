@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../../layout/compose-model-1653862278473.xml" value="0.21748310810810811" />
+        <entry key="../../../../../layout/compose-model-1653864516088.xml" value="1.0" />
+        <entry key="../../../../../layout/compose-model-1653865009712.xml" value="0.25" />
+        <entry key="../../../../../layout/compose-model-1660039224038.xml" value="0.11517615176151762" />
+        <entry key="../../../../layout/compose-model-1650450406033.xml" value="0.21481481481481482" />
+        <entry key="../../../../layout/compose-model-1650467590128.xml" value="0.2015993265993266" />
+        <entry key="../../../../layout/compose-model-1650482322187.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1650485801014.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1650486522595.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1650488705468.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1650492482234.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1651075072149.xml" value="0.125" />
+        <entry key="../../../../layout/compose-model-1651075144350.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1651151361726.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1651160560995.xml" value="0.125" />
+        <entry key="../../../../layout/compose-model-1651207658661.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1651207749489.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1651209160299.xml" value="0.45" />
+        <entry key="../../../../layout/compose-model-1651209721894.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1651209783022.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1651211518260.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1651310267696.xml" value="0.26666666666666666" />
+        <entry key="../../../../layout/compose-model-1651334433940.xml" value="0.45" />
+        <entry key="../../../../layout/compose-model-1651334560024.xml" value="1.0" />
+        <entry key="../../../../layout/compose-model-1651337195046.xml" value="2.0" />
+        <entry key="../../../../layout/compose-model-1651337576467.xml" value="0.75" />
+        <entry key="../../../../layout/compose-model-1651337814421.xml" value="0.5" />
+        <entry key="../../../../layout/compose-model-1651339969054.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1651340216212.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1651482894890.xml" value="0.20925925925925926" />
+        <entry key="../../../../layout/compose-model-1651483039335.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1651483238191.xml" value="0.165" />
+        <entry key="../../../../layout/compose-model-1651485288123.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1651486169659.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1651487351373.xml" value="0.25" />
+        <entry key="../../../../layout/compose-model-1651488024479.xml" value="0.165" />
+        <entry key="../../../../layout/compose-model-1651494833891.xml" value="0.375" />
+        <entry key="../../../../layout/compose-model-1651499537952.xml" value="0.45" />
+        <entry key="../../../../layout/compose-model-1651499900124.xml" value="0.335" />
+        <entry key="../../../../layout/compose-model-1651564042645.xml" value="0.165" />
+        <entry key="../../../../layout/compose-model-1651570075606.xml" value="0.16296296296296298" />
+        <entry key="../../../../layout/compose-model-1651913139203.xml" value="0.1" />
+        <entry key="../../../../layout/compose-model-1651941794625.xml" value="1.0" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/ic_add_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_android_black_24dp.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_battery.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_exit_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_glass_bottle.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_google_logo.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_grass_block.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_oak_tree.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_oak_tree_on_block.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_orange_bush_on_block.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_plus_button_active.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/ic_plus_button_inactive.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/ic_profile_button_active.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/ic_profile_picture.xml" value="0.1175" />
+        <entry key="app/src/main/res/drawable/ic_sakura_tree_on_block.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_settings_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_shop_button.xml" value="0.116" />
+        <entry key="app/src/main/res/drawable/ic_subtract_button.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_trash_can_closed.xml" value="0.1876327514648437" />
+        <entry key="app/src/main/res/drawable/ic_trash_can_opened.xml" value="0.15807037353515624" />
+        <entry key="app/src/main/res/drawable/ic_trash_cover.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_trash_cover_angled.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_tree_button_active.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.2821021671853321" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "498469992799",
+    "project_id": "ecogarden-bcdb6",
+    "storage_bucket": "ecogarden-bcdb6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:498469992799:android:6a23635844a4eefa611eea",
+        "android_client_info": {
+          "package_name": "com.pm.ecogarden"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "498469992799-ogqfkd58rt6e1nai4d4dqj9jpif43rqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBY7B9SEF48PEimWZOzMi_0rR_g6hy4PYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "498469992799-ogqfkd58rt6e1nai4d4dqj9jpif43rqu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
